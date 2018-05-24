@@ -3,6 +3,7 @@
 }
 body {
 	font-family: 'Pacifico', cursive;
+	font-size: 20px;
 
 }
 
@@ -20,4 +21,20 @@ height: 100%;
 	padding: 0px;
 	margin: 0px;
 	border: 1px solid #fff;
+}
+.filamenu{
+	background-color: #D5D8DC;
+	height: 60px;
+}
+.filamenu2{
+	background-color: #D5D8DC;
+	height: 10px;
+}
+.boton{
+	
+	margin-left: 35px;	
+}
+.tuerca{
+	background-color: #D5D8DC;
+	border: 0px;
 }
